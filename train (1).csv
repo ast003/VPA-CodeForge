@@ -1,0 +1,110 @@
+text,label
+add task: Meeting on 2024-02-10 at 3 PM,add
+reschedule first task: Presentation from 2024-02-15 at 2 PM to 2024-02-20 at 3 PM,reschedule
+cancel my third task: Interview on 2024-02-12 at 10 AM,cancel
+add remainder for tomorrow at 3 PM,add
+reschedule second remainder for Monday at 3 PM,reschedule
+cancel my first remainder,cancel
+add task: Project deadline on 2024-03-01 at 5 PM,add
+reschedule fourth task: Team call from 2024-02-18 at 1 PM to 2024-02-25 at 2 PM,reschedule
+cancel my fifth task: Weekly review on 2024-02-14 at 9 AM,cancel
+add task: Lunch with client on 2024-02-22 at 12:30 PM,add
+reschedule third task: Team meeting from 2024-02-17 at 4 PM to 2024-02-23 at 3:30 PM,reschedule
+cancel my second task: Gym session on 2024-02-16 at 7 AM,cancel
+add task: Code review on 2024-02-28 at 2:30 PM,add
+reschedule fifth task: Call from 2024-02-18 at 1 PM to 2024-02-25 at 2 PM,reschedule
+cancel my fourth task: Weekly report on 2024-02-14 at 9 AM,cancel 
+add task: Client meeting on 2024-02-25 at 11 AM,add
+reschedule second task: Workshop from 2024-03-05 at 3 PM to 2024-03-10 at 4:30 PM,reschedule
+cancel my third remainder,cancel
+add task: Research presentation on 2024-03-15 at 2 PM,add
+reschedule first task: Team building event from 2024-02-20 at 5 PM to 2024-02-25 at 6:30 PM,reschedule
+cancel my second remainder,cancel
+add task: Product demo on 2024-03-05 at 10:30 AM,add
+reschedule fourth task: Training session from 2024-02-28 at 2 PM to 2024-03-05 at 3:30 PM,reschedule
+cancel my fifth remainder,cancel
+add task: Team celebration on 2024-03-10 at 6 PM,add
+add task: Client meeting on 2024-02-25 at 11 AM,add
+reschedule second task: Workshop from 2024-03-05 at 3 PM to 2024-03-10 at 4:30 PM,reschedule
+cancel my third remainder,cancel
+add task: Research presentation on 2024-03-15 at 2 PM,add
+reschedule first task: Team building event from 2024-02-20 at 5 PM to 2024-02-25 at 6:30 PM,reschedule
+cancel my second remainder,cancel
+add task: Product demo on 2024-03-05 at 10:30 AM,add
+reschedule fourth task: Training session from 2024-02-28 at 2 PM to 2024-03-05 at 3:30 PM,reschedule
+cancel my fifth remainder,cancel
+add task: Team celebration on 2024-03-10 at 6 PM,add
+add task: Marketing presentation on 2024-03-08 at 1:30 PM,add
+reschedule third task: Client call from 2024-02-23 at 11 AM to 2024-02-28 at 2 PM,reschedule
+cancel my fourth remainder,cancel
+add task: Project kickoff on 2024-02-27 at 9 AM,add
+reschedule fifth task: Budget meeting from 2024-02-18 at 2 PM to 2024-02-25 at 3:30 PM,reschedule
+cancel my sixth task: Team training on 2024-02-21 at 3 PM,cancel
+add task: Product launch event on 2024-03-12 at 5:30 PM,add
+reschedule second remainder for Thursday at 4 PM,reschedule
+cancel my seventh remainder,cancel
+add task: Quarterly review on 2024-03-07 at 10 AM,add
+reschedule sixth task: Design sprint from 2024-03-01 at 2 PM to 2024-03-06 at 3:30 PM,reschedule
+cancel my eighth task: Networking event on 2024-03-02 at 6 PM,cancel
+add task: Client meeting on 2024-02-25 at 11 AM,add
+reschedule second task: Workshop from 2024-03-05 at 3 PM to 2024-03-10 at 4:30 PM,reschedule
+cancel my third remainder,cancel
+add task: Research presentation on 2024-03-15 at 2 PM,add
+add task: Meeting on 2024-02-10 at 3 PM,add
+shift first task: Presentation from 2024-02-15 at 2 PM to 2024-02-20 at 3 PM,reschedule
+call off my third appointment: Interview on 2024-02-12 at 10 AM,cancel
+create reminder for tomorrow at 3 PM,add
+adjust second reminder for Monday at 3 PM,reschedule
+drop my first reminder,cancel
+include event: Project deadline on 2024-03-01 at 5 PM,add
+move fourth event: Team call from 2024-02-18 at 1 PM to 2024-02-25 at 2 PM,reschedule
+cancel my fifth commitment: Weekly review on 2024-02-14 at 9 AM,cancel
+organize lunch with client on 2024-02-22 at 12:30 PM,add
+reschedule third meeting: Team gathering from 2024-02-17 at 4 PM to 2024-02-23 at 3:30 PM,reschedule
+discard my second task: Gym session on 2024-02-16 at 7 AM,cancel
+initiate task: Code review on 2024-02-28 at 2:30 PM,add
+postpone fifth task: Call from 2024-02-18 at 1 PM to 2024-02-25 at 2 PM,reschedule
+terminate my fourth task: Weekly report on 2024-02-14 at 9 AM,cancel 
+schedule meeting: Client meeting on 2024-02-25 at 11 AM,add
+move second activity: Workshop from 2024-03-05 at 3 PM to 2024-03-10 at 4:30 PM,reschedule
+cancel my third remainder,cancel
+create task: Research presentation on 2024-03-15 at 2 PM,add
+shift first event: Team-building event from 2024-02-20 at 5 PM to 2024-02-25 at 6:30 PM,reschedule
+skip my second notice,cancel
+arrange demo: Product demo on 2024-03-05 at 10:30 AM,add
+reschedule fourth training: Training session from 2024-02-28 at 2 PM to 2024-03-05 at 3:30 PM,reschedule
+eliminate my fifth notification,cancel
+plan team get-together on 2024-03-10 at 6 PM,add
+organize meeting: Client meeting on 2024-02-25 at 11 AM,add
+move second workshop: Workshop from 2024-03-05 at 3 PM to 2024-03-10 at 4:30 PM,reschedule
+skip my third reminder,cancel
+create presentation: Research presentation on 2024-03-15 at 2 PM,add
+reschedule first event: Team-building event from 2024-02-20 at 5 PM to 2024-02-25 at 6:30 PM,reschedule
+discard my second notice,cancel
+organize demo: Product demo on 2024-03-05 at 10:30 AM,add
+reschedule fourth training: Training session from 2024-02-28 at 2 PM to 2024-03-05 at 3:30 PM,reschedule
+cancel my fifth notification,cancel
+plan team get-together on 2024-03-10 at 6 PM,add
+organize marketing presentation on 2024-03-08 at 1:30 PM,add
+reschedule third meeting: Client call from 2024-02-23 at 11 AM to 2024-02-28 at 2 PM,reschedule
+skip my fourth notice,cancel
+initiate project kickoff on 2024-02-27 at 9 AM,add
+reschedule fifth meeting: Budget meeting from 2024-02-18 at 2 PM to 2024-02-25 at 3:30 PM,reschedule
+cancel my sixth session: Team training on 2024-02-21 at 3 PM,cancel
+organize product launch event on 2024-03-12 at 5:30 PM,add
+shift second reminder to Thursday at 4 PM,reschedule
+cancel my seventh reminder,cancel
+plan quarterly review on 2024-03-07 at 10 AM,add
+reschedule sixth activity: Design sprint from 2024-03-01 at 2 PM to 2024-03-06 at 3:30 PM,reschedule
+skip my eighth appointment: Networking event on 2024-03-02 at 6 PM,cancel
+organize client meeting on 2024-02-25 at 11 AM,add
+move second workshop: Workshop from 2024-03-05 at 3 PM to 2024-03-10 at 4:30 PM,reschedule
+skip my third reminder,cancel
+create research presentation on 2024-03-15 at 2 PM,add
+shift first event: Team-building event from 2024-02-20 at 5 PM to 2024-02-25 at 6:30 PM,reschedule
+discard my second notice,cancel
+organize product demo on 2024-03-05 at 10:30 AM,add
+reschedule fourth training: Training session from 2024-02-28 at 2 PM to 2024-03-05 at 3:30 PM,reschedule
+cancel my fifth notification,cancel
+plan team get-together on 2024-03-10 at 6 PM,add
+
